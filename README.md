@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m working hard
 
-![](https://github.com/sunzgRunner/szgStart/blob/master/header_.png)
+![](https://github.com/szgRunner/szgStart/blob/master/header_.png)
 
 
 [![szgRunner's github stats](https://github-readme-stats.vercel.app/api?username=szgRunner)](https://github.com/szgRunner)
